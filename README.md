@@ -1,6 +1,6 @@
 # minishell
 ## Issues
-- Id you find any issues feel free to pull an issue and we'll solve it ASAP
+- If you find any issues feel free to pull an issue and we'll solve it ASAP
 ## Contents
 
 - [Info](#info)
